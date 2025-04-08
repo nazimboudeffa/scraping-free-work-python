@@ -1,11 +1,3 @@
 # scraping free-work.com
 
-Install Anaconda
-
-Create an environement called scraping
-
-Install requests
-
-Install beautifulsoupe4
-
-RUN!
+Another ethical scraper, I've asked the site if I can do it
